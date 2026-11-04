@@ -1,0 +1,10 @@
+{
+  "name": "magdalene-wandera-memorial",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Memorial page and message wall for Mrs Magdalene Kubirabe Wandera",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.5"
+  }
+}
